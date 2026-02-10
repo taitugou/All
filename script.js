@@ -380,7 +380,7 @@ function initSolar3D() {
             b: 210,
             speed: 0.009,
             tilt: { x: 5, y: 0, z: -12 },
-            url: 'https://taitugou.top:111',
+            url: 'https://taitugou.top:666',
             descMain: 'TTG MindMap 是一款轻量级在线思维导图工具，帮助你高效捕捉灵感、梳理逻辑结构，提升学习与工作效率。',
             descFeatures: [
                 { label: '云端同步：', text: '支持多端实时同步，随时随地查看和编辑你的思维导图。' },
